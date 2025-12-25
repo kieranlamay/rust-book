@@ -1,0 +1,1 @@
+Exercises and projects for "The Rust Programming Language" book.
